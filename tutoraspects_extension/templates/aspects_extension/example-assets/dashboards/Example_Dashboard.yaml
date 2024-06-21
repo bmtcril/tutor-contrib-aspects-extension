@@ -26,6 +26,7 @@ metadata:
       rootPath:
       - ROOT_ID
   label_colors: {}
+  native_filter_configuration: []
   refresh_frequency: 0
   shared_label_colors: {}
   timed_refresh_immune_slices: []
@@ -74,6 +75,6 @@ position:
     - GRID_ID
     type: ROW
 published: false
-slug: null
+slug: example-dashboard
 uuid: 8ae7fafd-ca2c-4e98-a666-2cce99622212
 version: 1.0.0
